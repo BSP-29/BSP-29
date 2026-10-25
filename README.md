@@ -61,7 +61,7 @@ For license-related questions, authorization requests, or exceptions, contact th
 
 **Copyright © 2026–Present Brawl Stars Projects. All rights reserved, subject to applicable law.**
 
-This repository is governed by the [BSP-29 Restricted Source and Attribution License](LICENSE).
+This repository is governed by the [BSP-29 Restricted Source and Attribution License](LICENSE.md).
 
 Access to the source code does not automatically grant permission to reuse, modify, redistribute, or incorporate protected project material into other projects. Any such use must comply with the License and applicable law.
 
