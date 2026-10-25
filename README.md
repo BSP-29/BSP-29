@@ -4,7 +4,7 @@
 
 ## ⚠️ Important: Read the License
 
-**READ THE ENTIRE [LICENSE](LICENSE) BEFORE ACCESSING, USING, COPYING, MODIFYING, FORKING, OR REDISTRIBUTING ANY PART OF THIS PROJECT.**
+**READ THE ENTIRE [LICENSE](LICENSE.md) BEFORE ACCESSING, USING, COPYING, MODIFYING, FORKING, OR REDISTRIBUTING ANY PART OF THIS PROJECT.**
 
 **Failure to read, understand, or acknowledge the License does not automatically exempt anyone from the obligations or legal consequences applicable to unauthorized use.** Please review the complete License and ensure that your activities comply with its applicable terms.
 
@@ -55,7 +55,7 @@ For general questions, assistance, and community support, visit the official Tel
 
 https://t.me/BrawlStarsProjectsChat
 
-For license-related questions, authorization requests, or exceptions, contact the designated representatives listed in the [LICENSE](LICENSE).
+For license-related questions, authorization requests, or exceptions, contact the designated representatives listed in the [LICENSE](LICENSE.md).
 
 ## License and Copyright
 
