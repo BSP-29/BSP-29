@@ -1,0 +1,26 @@
+{
+    "Namecolor": 1,
+    "DnDState": 0,
+    "TeamChatMuted": 0,
+    "ThemeID": 41000005,
+    "Region": "OG",
+    "QuestSeen": false,
+    "BattleQuestType": 0,
+    "GadgetStatus": true,
+    "Name": "GUEST",
+    "Registered": true,
+    "Bronze": true,
+    "Silver": true,
+    "Ruby": true,
+    "Rainbow": true,
+    "RainbowX": true,
+    "Lang": "EN",
+    "SelectedBrawler": 0,
+    "BrawlerTrophies": {
+        "0": 0
+    },
+    "isAndroid": true,
+    "Friends": [],
+    "Gems": 0,
+    "Coins": 0
+}

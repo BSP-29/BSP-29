@@ -1,0 +1,24 @@
+Name,TID,DisplayName,IsCountry
+String,String,String,boolean
+_EU,,Europe,FALSE
+_NA,,North America,FALSE
+_SA,,South America,FALSE
+_AS,,Asia,FALSE
+_AU,,Australia,FALSE
+TS,,Thornstalk,TRUE
+_INT,TID_REGION_INT,International,FALSE
+BSP_1,,Green,TRUE
+BSP_2,,Purple,TRUE
+GS,,Giftshop,TRUE
+LY,,Lunar Year,TRUE
+WT,,Winter,TRUE
+OG,,Original,TRUE
+VX,,Vex,TRUE
+VR,,Vortex,TRUE
+TP,,Trash-P,TRUE
+SP,,Sparky,TRUE
+CUSTOM1,TID_REGION_CUSTOM1,,FALSE
+CUSTOM2,TID_REGION_CUSTOM2,,FALSE
+CUSTOM3,TID_REGION_CUSTOM3,,FALSE
+CUSTOM4,TID_REGION_CUSTOM4,,FALSE
+CUSTOM5,TID_REGION_CUSTOM5,,FALSE

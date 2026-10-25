@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>BSP News</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+        .container {
+            background: linear-gradient(180deg, #2a2a2a 0%, #121212 100%);
+            border: 4px solid #f3ae10;
+            padding: 30px;
+            border-radius: 20px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+            max-width: 80%;
+        }
+        h1 {
+            font-size: 2.2em;
+            text-transform: uppercase;
+            color: #f3ae10;
+            text-shadow: 3px 3px #000;
+            margin-bottom: 5px;
+        }
+        p {
+            font-size: 1.1em;
+            color: #ffffff;
+            margin-bottom: 25px;
+            text-shadow: 1px 1px #000;
+        }
+        .social-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .btn {
+            text-decoration: none;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 10px;
+            font-size: 1.1em;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: transform 0.1s;
+            border-bottom: 5px solid rgba(0,0,0,0.3);
+            text-shadow: 1px 1px #000;
+        }
+        .btn:active {
+            transform: translateY(3px);
+            border-bottom: 2px solid rgba(0,0,0,0.3);
+        }
+        .btn-telegram {
+            background-color: #0088cc;
+        }
+        .btn-discord {
+            background-color: #5865F2;
+        }
+        .btn i {
+            font-size: 1.4em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <strong><h1>WELCOME TO BSP!</h1></strong>
+        <strong><p>FOR THE NEWS JOIN OUR DISCORD AND TELEGRAM</p></strong>
+        
+        <div class="social-buttons">
+            <a href="https://t.me/BrawlStarsProjects" class="btn btn-telegram">
+                <i class="fab fa-telegram"></i><strong> TELEGRAM</strong>
+            </a>
+            <a href="https://discord.gg/AM4H743hCu" class="btn btn-discord">
+                <i class="fab fa-discord"></i><strong> DISCORD</strong>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

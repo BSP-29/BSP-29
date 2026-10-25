@@ -1,0 +1,724 @@
+{
+  "description": "Reward tables per season for pass claims. Season keys are the season ID (e.g. 2 = season 3). item_id 7 = coins, 8 = gems. Box IDs: 100 = no animation, 10 = Brawl Box, 11 = Mega Box, 12 = Big Box.",
+  "box_config": {
+    "10": {
+      "name": "Brawl Box",
+      "rewards_count": {
+        "2-4": 0.8,
+        "5-6": 0.15,
+        "7-8": 0.05
+      },
+      "coin_range": [
+        10,
+        100
+      ],
+      "gem_range": [
+        1,
+        3
+      ],
+      "coin_chance": 0.99,
+      "gem_chance": 0.01
+    },
+    "11": {
+      "name": "Mega Box",
+      "rewards_count": {
+        "2-4": 0.5,
+        "5-6": 0.3,
+        "7-8": 0.2
+      },
+      "coin_range": [
+        100,
+        1000
+      ],
+      "gem_range": [
+        10,
+        30
+      ],
+      "coin_chance": 0.99,
+      "gem_chance": 0.01,
+      "multiplier": 10
+    },
+    "12": {
+      "name": "Big Box",
+      "rewards_count": {
+        "2-4": 0.67,
+        "5-6": 0.2,
+        "7-8": 0.13
+      },
+      "coin_range": [
+        30,
+        300
+      ],
+      "gem_range": [
+        3,
+        9
+      ],
+      "coin_chance": 0.99,
+      "gem_chance": 0.01,
+      "multiplier": 3
+    },
+    "100": {
+      "name": "No Animation",
+      "rewards_count": {
+        "1": 1.0
+      },
+      "coin_range": [
+        0,
+        0
+      ],
+      "gem_range": [
+        0,
+        0
+      ],
+      "coin_chance": 1.0,
+      "gem_chance": 0.0,
+      "use_json_amount": true,
+      "use_json_item_id": true
+    }
+  },
+  "seasons": {
+    "2": {
+      "season_id": 3,
+      "premium": [
+        {
+          "tier": 0,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 1,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 2,
+          "item_id": 7,
+          "amount": 100,
+          "box_id": 100
+        },
+        {
+          "tier": 3,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 4,
+          "item_id": 7,
+          "amount": 100,
+          "box_id": 100
+        },
+        {
+          "tier": 5,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 6,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 7,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 8,
+          "item_id": 7,
+          "amount": 100,
+          "box_id": 100
+        },
+        {
+          "tier": 9,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 10,
+          "item_id": 7,
+          "amount": 100,
+          "box_id": 100
+        },
+        {
+          "tier": 11,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 12,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 13,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 14,
+          "item_id": 7,
+          "amount": 200,
+          "box_id": 100
+        },
+        {
+          "tier": 15,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 16,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 17,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 18,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 19,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 20,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 21,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 22,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 23,
+          "item_id": 7,
+          "amount": 200,
+          "box_id": 100
+        },
+        {
+          "tier": 24,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 25,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 26,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 27,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 28,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 29,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 30,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 31,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 32,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 33,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 34,
+          "item_id": 7,
+          "amount": 200,
+          "box_id": 100
+        },
+        {
+          "tier": 35,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 36,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 37,
+          "item_id": 7,
+          "amount": 200,
+          "box_id": 12
+        },
+        {
+          "tier": 38,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 39,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 40,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 41,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 42,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 43,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 100
+        },
+        {
+          "tier": 44,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 45,
+          "item_id": 7,
+          "amount": 300,
+          "box_id": 11
+        },
+        {
+          "tier": 46,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 47,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 48,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 100
+        },
+        {
+          "tier": 49,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 100
+        },
+        {
+          "tier": 50,
+          "item_id": 7,
+          "amount": 10,
+          "box_id": 100
+        },
+        {
+          "tier": 51,
+          "item_id": 7,
+          "amount": 10,
+          "box_id": 100
+        },
+        {
+          "tier": 52,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 100
+        }
+      ],
+      "free": [
+        {
+          "tier": 0,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 1,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 2,
+          "item_id": 8,
+          "amount": 10,
+          "box_id": 100
+        },
+        {
+          "tier": 3,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 4,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 5,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 6,
+          "item_id": 7,
+          "amount": 50,
+          "box_id": 100
+        },
+        {
+          "tier": 7,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 8,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 9,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 10,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 11,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 12,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 13,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 14,
+          "item_id": 8,
+          "amount": 10,
+          "box_id": 100
+        },
+        {
+          "tier": 15,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 16,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 17,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 18,
+          "item_id": 7,
+          "amount": 50,
+          "box_id": 100
+        },
+        {
+          "tier": 19,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 20,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 21,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 22,
+          "item_id": 8,
+          "amount": 20,
+          "box_id": 100
+        },
+        {
+          "tier": 23,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 24,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 25,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 26,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 100
+        },
+        {
+          "tier": 27,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 28,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 29,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 30,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 31,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 32,
+          "item_id": 7,
+          "amount": 100,
+          "box_id": 100
+        },
+        {
+          "tier": 33,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 34,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 100
+        },
+        {
+          "tier": 35,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 36,
+          "item_id": 8,
+          "amount": 10,
+          "box_id": 100
+        },
+        {
+          "tier": 37,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 38,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 39,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 40,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 41,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 42,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 100
+        },
+        {
+          "tier": 43,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 44,
+          "item_id": 8,
+          "amount": 10,
+          "box_id": 100
+        },
+        {
+          "tier": 45,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 46,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 10
+        },
+        {
+          "tier": 47,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 48,
+          "item_id": 7,
+          "amount": 200,
+          "box_id": 100
+        },
+        {
+          "tier": 49,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 12
+        },
+        {
+          "tier": 50,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 100
+        },
+        {
+          "tier": 51,
+          "item_id": 7,
+          "amount": 1,
+          "box_id": 11
+        },
+        {
+          "tier": 52,
+          "item_id": 8,
+          "amount": 10,
+          "box_id": 100
+        }
+      ]
+    }
+  }
+}

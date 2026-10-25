@@ -1,0 +1,37 @@
+{
+    "Namecolor": 7,
+    "DnDState": 0,
+    "TeamChatMuted": 0,
+    "ThemeID": 41000010,
+    "Region": "SP",
+    "QuestSeen": true,
+    "BattleQuestType": 0,
+    "GadgetStatus": true,
+    "Name": "LL|TestAccount",
+    "Registered": true,
+    "SupercellIDToken": "",
+    "Lang": "EN",
+    "Friends": [
+        {
+            "id": 7,
+            "state": 3
+        }
+    ],
+    "Bronze": false,
+    "Silver": false,
+    "Ruby": false,
+    "Rainbow": false,
+    "RainbowX": false,
+    "Pass": "Password",
+    "User": "BSP",
+    "Token": "b'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjAsInNjaWQiOiIwLTAtMC0wLTAiLCJnYW1lIjoibGFzZXIiLCJwaWQiOiIwIiwiaWF0IjowfQ.ziocarontegmail.com'",
+    "SelectedStarPowers": {},
+    "SelectedGadgets": {},
+    "EquippedCards": {},
+    "SelectedBrawler": 0,
+    "BrawlerTrophies": {
+        "0": 0
+    },
+    "Coins": 0,
+    "Gems": 0
+}

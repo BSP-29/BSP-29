@@ -1,0 +1,42 @@
+        fields["AccountID"] = self.readLong()
+        fields["HomeID"] = self.readLong()
+        fields["PassToken"] = self.readString()
+        fields["FacebookID"] = self.readString()
+        fields["GamecenterID"] = self.readString()
+        fields["ServerMajorVersion"] = self.readInt()
+        fields["ContentVersion"] = self.readInt()
+        fields["ServerBuild"] = self.readInt()
+        fields["ServerEnvironment"] = self.readString()
+        fields["SessionCount"] = self.readInt()
+        fields["PlayTimeSeconds"] = self.readInt()
+        fields["DaysSinceStartedPlaying"] = self.readInt()
+        fields["FacebookAppID"] = self.readString()
+        fields["ServerTime"] = self.readString()
+        fields["AccountCreatedDate"] = self.readString()
+        fields["StartupCooldownSeconds"] = self.readInt()
+        fields["GoogleServiceID"] = self.readString()
+        fields["LoginCountry"] = self.readString()
+        fields["KunlunID"] = self.readString()
+        fields["Tier"] = self.readInt()
+        fields["TencentID"] = self.readString()
+       
+        ContentUrlCount = self.readInt()
+        fields["GameAssetsUrls"] = []
+        for i in range(ContentUrlCount):
+            fields["GameAssetsUrls"].append(self.readString())
+       
+        EventUrlCount = self.readInt()
+        fields["EventAssetsUrls"] = []
+        for i in range(EventUrlCount):
+            fields["EventAssetsUrls"].append(self.readString())
+       
+        fields["SecondsUntilAccountDeletion"] = self.readVInt()
+        fields["SupercellIDToken"] = self.readCompressedString()
+        fields["IsSupercellIDLogoutAllDevicesAllowed"] = self.readBoolean()
+        fields["isSupercellIDEligible"] = self.readBoolean()
+        fields["LineID"] = self.readString()
+        fields["SessionID"] = self.readString()
+        fields["KakaoID"] = self.readString()
+        fields["UpdateURL"] = self.readString()
+        fields["YoozooPayNotifyUrl"] = self.readString()
+        fields["UnbotifyEnabled"] = self.readBoolean()

@@ -1,0 +1,41 @@
+{
+    "Namecolor": 11,
+    "DnDState": 0,
+    "TeamChatMuted": 0,
+    "ThemeID": 41000005,
+    "Region": "OG",
+    "QuestSeen": true,
+    "BattleQuestType": 0,
+    "GadgetStatus": true,
+    "Name": "LL|TooOld",
+    "Registered": true,
+    "SupercellIDToken": "",
+    "Lang": "EN",
+    "Friends": [
+        {
+            "id": 2,
+            "state": 3
+        },
+        {
+            "id": 18,
+            "state": 4
+        }
+    ],
+    "Bronze": false,
+    "Silver": false,
+    "Ruby": false,
+    "Rainbow": false,
+    "RainbowX": false,
+    "Pass": "Password",
+    "User": "BSP",
+    "Token": "b'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjAsInNjaWQiOiIwLTAtMC0wLTAiLCJnYW1lIjoibGFzZXIiLCJwaWQiOiIwIiwiaWF0IjowfQ.iamtoooldformyemail90gmail.com'",
+    "SelectedStarPowers": {},
+    "SelectedGadgets": {},
+    "EquippedCards": {},
+    "SelectedBrawler": 117,
+    "BrawlerTrophies": {
+        "117": 0
+    },
+    "Coins": 0,
+    "Gems": 0
+}

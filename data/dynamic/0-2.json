@@ -1,0 +1,53 @@
+{
+    "Namecolor": 8,
+    "DnDState": 0,
+    "TeamChatMuted": 0,
+    "ThemeID": 41000001,
+    "Region": "GS",
+    "QuestSeen": true,
+    "BattleQuestType": 0,
+    "GadgetStatus": true,
+    "Name": "GUEST",
+    "Registered": true,
+    "SupercellIDToken": "",
+    "Lang": "EN",
+    "Friends": [
+        {
+            "id": 16,
+            "state": 2
+        },
+        {
+            "id": 18,
+            "state": 3
+        },
+        {
+            "id": 17,
+            "state": 3
+        }
+    ],
+    "Bronze": true,
+    "Silver": true,
+    "Ruby": true,
+    "Rainbow": true,
+    "RainbowX": true,
+    "Pass": "Password",
+    "User": "BSP",
+    "Token": "",
+    "SelectedStarPowers": {},
+    "SelectedGadgets": {},
+    "EquippedCards": {},
+    "SelectedBrawler": 117,
+    "BrawlerTrophies": {
+        "117": 0
+    },
+    "TeamID": [
+        0,
+        140
+    ],
+    "TeamType": 0,
+    "TeamOwnerID": 1,
+    "TeamIsOwner": false,
+    "TeamMapID": 1,
+    "Coins": 0,
+    "Gems": 0
+}

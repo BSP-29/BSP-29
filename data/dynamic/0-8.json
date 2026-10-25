@@ -1,0 +1,32 @@
+{
+    "Namecolor": 6,
+    "DnDState": 0,
+    "TeamChatMuted": 0,
+    "ThemeID": 41000005,
+    "Region": "OG",
+    "QuestSeen": false,
+    "BattleQuestType": 0,
+    "GadgetStatus": true,
+    "Name": "LL|SUS",
+    "Registered": true,
+    "SupercellIDToken": "",
+    "Lang": "EN",
+    "Friends": [],
+    "Bronze": false,
+    "Silver": false,
+    "Ruby": false,
+    "Rainbow": false,
+    "RainbowX": false,
+    "Pass": "Password",
+    "User": "BSP",
+    "Token": "b'eyJraWQiOiJjNzVhN2Y4M2U5MzMiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJpZC5zdXBlcmNlbGwuY29tIiwiaWF0IjoxNzc5MDUyMDI0LCJzdWIiOiI0My03YzdmMWQwMy02MzhlLTQyZjItODc0MS1iMDJhODViMDBmYTgiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vdHlwZSI6ImFjY291bnQiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vYXBwIjoibGFzZXIiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vYXBwRW52IjoicHJvZCIsImh0dHBzOi8vaWQuc3VwZXJjZWxsLmNvbS9hcHBBY2NvdW50SWQiOiIxMi04ODA0MzYyMiIsInNjaWQiOiI0My03YzdmMWQwMy02MzhlLTQyZjItODc0MS1iMDJhODViMDBmYTgiLCJnYW1lIjoibGFzZXIiLCJlbnYiOiJwcm9kIiwicGlkIjoiMTItODgwNDM2MjIiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vaW5pdGlhbFJlZnJlc2hUb2tlbklzc3VlZEF0IjoxNzc5MDUyMDI0fQ.n1u7liBrqMJW8_5-gQt8QsgeFD47ZNwnrYT7YTZQX-Lhq2DeMhftgrQCd9aQL8SSqar6NdnkW3UIcFtE8Rqdyw'",
+    "SelectedStarPowers": {},
+    "SelectedGadgets": {},
+    "EquippedCards": {},
+    "SelectedBrawler": 0,
+    "BrawlerTrophies": {
+        "0": 0
+    },
+    "Coins": 0,
+    "Gems": 0
+}

@@ -1,0 +1,5 @@
+ID 100 = No Animation
+ID 10 = Brawl Box
+ID 11 = Mega Box
+ID 12 = Big Box
+ANY INVALID ID WILL SHOW AN INVISIBLE BOX
